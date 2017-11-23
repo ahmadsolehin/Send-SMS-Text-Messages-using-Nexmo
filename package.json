@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app"
   },
-  "author": "Brad Traversy",
+  "author": "soley soley",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
